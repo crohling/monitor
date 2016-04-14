@@ -1,4 +1,4 @@
-# Monitor [![Build Status](https://travis-ci.org/crohling88/monitor.png?branch=master)](https://travis-ci.org/crohling88/monitor)
+# Monitor [![Build Status](https://travis-ci.org/crohling/monitor.svg?branch=master)](https://travis-ci.org/crohling/monitor)
 A simple TCP service monitor
 
 # Setup
