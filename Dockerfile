@@ -1,4 +1,5 @@
-from python:2.7
+FROM elyase/staticpython
+MAINTAINER Christian Rohling <crohling88@gmail.com>
 
 ENV SMTP_USERNAME=""    \
     SMTP_PASSWORD=""    \
