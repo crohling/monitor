@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/crohling/monitor.png?label=ready&title=Ready)](https://waffle.io/crohling/monitor)
 # Monitor [![Build Status](https://travis-ci.org/crohling/monitor.svg?branch=master)](https://travis-ci.org/crohling/monitor)
 A simple TCP service monitor
 
